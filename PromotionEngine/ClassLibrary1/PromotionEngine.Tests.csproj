@@ -49,6 +49,8 @@
   <ItemGroup>
     <Compile Include="OrderTotal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="When_Applicable_Promotions.cs" />
+    <Compile Include="When_NoApplicable_Promotion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

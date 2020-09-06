@@ -45,9 +45,11 @@
   <ItemGroup>
     <Compile Include="DataSetHelper.cs" />
     <Compile Include="LineItem.cs" />
+    <Compile Include="MinQuantityPromotion.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PromotionBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
