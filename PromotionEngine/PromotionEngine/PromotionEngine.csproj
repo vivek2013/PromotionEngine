@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataSetHelper.cs" />
     <Compile Include="LineItem.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Product.cs" />
